@@ -5,7 +5,7 @@
 <h1>[Número 4 lista de livros em determinada lingua]  </h1>
 <h1>[5 livros mais abaixados]  </h1>
 <p>
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img align="center"> loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
