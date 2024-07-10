@@ -1,5 +1,5 @@
 # Projeto de pesquisa de livros
-## Liter Alura
+## LiterAlura
 
 * [Número 1 pesquisar livros ]
 * [Número 2 ver autores ]
