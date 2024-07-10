@@ -16,4 +16,4 @@
     :construction:  Projeto em construção  :construction:
 </h4>
 Catálogo de Livros com interação textual (via console) com os usuários, proporcionando 5 opções de interação. Os livros são buscados através de uma API específica. As informações sobre a API e as opções de interação com o usuário serão detalhadas na coluna “Backlog”/”Pronto para iniciar”.
-<img src="url">"https://github.com/Feentruck07/Challenge-LiterAlura/assets/165968850/12689387-3b8d-4bb1-87ae-15b202349d5a"
+
