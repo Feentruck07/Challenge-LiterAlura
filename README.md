@@ -1,5 +1,5 @@
 <p>
-<h1 align="center"> Projeto de LiterAlura </h1>
+<h1 align="center"> Projeto LiterAlura </h1>
 </p>
 <br></br>
 <h1>[Número 1 pesquisar livros ]</h1>
