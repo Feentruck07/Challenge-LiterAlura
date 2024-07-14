@@ -1,7 +1,6 @@
 <p>
 <h1 align="center"> Projeto LiterAlura </h1>
 </p>
-<br></br>
 
 <h1 align="center"><img loading= "lazy" src= "https://github.com/user-attachments/assets/d486e01e-ec3f-4962-9d0c-1b71048d2636"/></h1>
 </img>
